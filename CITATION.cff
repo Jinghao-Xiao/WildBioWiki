@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "WildBioWiki: A Knowledge-Grounded Biodiversity Benchmark with Species-Level QA and Image-Level Captions"
+message: "If you use this code or the associated dataset, please cite the WildBioWiki paper and dataset release."
+type: software
+authors:
+  - family-names: "Name"
+    given-names: "Author"
+affiliation: "University of Technology Sydney"
+repository-code: "https://github.com/REPLACE_WITH_FINAL_REPO"
+license: "MIT"
+version: "v1.0"
+date-released: 2026-04-02

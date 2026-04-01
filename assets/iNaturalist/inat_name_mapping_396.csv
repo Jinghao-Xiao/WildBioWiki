@@ -1,0 +1,397 @@
+taxon_id,scientific_name,common_name_original,common_name_model,taxonomy_class,generic_label,grounding_dino_prompt,qwen_label,yolo_open_vocab_label,aliases
+47516,Oncorhynchus mykiss,Rainbow Trout,rainbow trout,Actinopterygii,fish,rainbow trout. fish.,rainbow trout,rainbow trout,rainbow trout|fish
+47518,Salmo trutta,Brown Trout,brown trout,Actinopterygii,fish,brown trout. fish.,brown trout,brown trout,brown trout|fish
+55387,Esox lucius,Northern Pike,northern pike,Actinopterygii,fish,northern pike. fish.,northern pike,northern pike,northern pike|fish
+58662,Semotilus atromaculatus,Creek Chub,creek chub,Actinopterygii,fish,creek chub. fish.,creek chub,creek chub,creek chub|fish
+83290,Zanclus cornutus,Moorish Idol,moorish idol,Actinopterygii,fish,moorish idol. fish.,moorish idol,moorish idol,moorish idol|fish
+49402,Abudefduf saxatilis,Atlantic Sergeant Major,atlantic sergeant major,Actinopterygii,fish,atlantic sergeant major. fish.,atlantic sergeant major,atlantic sergeant major,atlantic sergeant major|fish
+81554,Ictalurus punctatus,Channel Catfish,channel catfish,Actinopterygii,fish,channel catfish. fish.,channel catfish,channel catfish,channel catfish|fish
+58627,Perca flavescens,Yellow Perch,yellow perch,Actinopterygii,fish,yellow perch. fish.,yellow perch,yellow perch,yellow perch|fish
+85365,Lepomis auritus,Redbreast Sunfish,redbreast sunfish,Actinopterygii,fish,redbreast sunfish. fish.,redbreast sunfish,redbreast sunfish,redbreast sunfish|fish
+109062,Perca fluviatilis,European Perch,european perch,Actinopterygii,fish,european perch. fish.,european perch,european perch,european perch|fish
+49594,Pomoxis nigromaculatus,Black Crappie,black crappie,Actinopterygii,fish,black crappie. fish.,black crappie,black crappie,black crappie|fish
+48403,Gasterosteus aculeatus,Threespine Stickleback,threespine stickleback,Actinopterygii,fish,threespine stickleback. fish.,threespine stickleback,threespine stickleback,threespine stickleback|fish
+67629,Oligocottus maculosus,Tidepool Sculpin,tidepool sculpin,Actinopterygii,fish,tidepool sculpin. fish.,tidepool sculpin,tidepool sculpin,tidepool sculpin|fish
+52313,Diodon hystrix,Spotted Porcupinefish,spotted porcupinefish,Actinopterygii,fish,spotted porcupinefish. fish.,spotted porcupinefish,spotted porcupinefish,spotted porcupinefish|fish
+49403,Abudefduf vaigiensis,Indo-Pacific Sergeant Major,indo pacific sergeant major,Actinopterygii,fish,indo pacific sergeant major. fish.,indo pacific sergeant major,indo pacific sergeant major,indo pacific sergeant major|fish
+49491,Thalassoma bifasciatum,Caribbean Bluehead Wrasse,caribbean bluehead wrasse,Actinopterygii,fish,caribbean bluehead wrasse. fish.,caribbean bluehead wrasse,caribbean bluehead wrasse,caribbean bluehead wrasse|fish
+54191,Oncorhynchus tshawytscha,Chinook Salmon,chinook salmon,Actinopterygii,fish,chinook salmon. fish.,chinook salmon,chinook salmon,chinook salmon|fish
+81556,Catostomus commersonii,White Sucker,white sucker,Actinopterygii,fish,white sucker. fish.,white sucker,white sucker,white sucker|fish
+49509,Lutjanus griseus,Gray Snapper,gray snapper,Actinopterygii,fish,gray snapper. fish.,gray snapper,gray snapper,gray snapper|fish
+118682,Chromis chromis,Mediterranean Damselfish,mediterranean damselfish,Actinopterygii,fish,mediterranean damselfish. fish.,mediterranean damselfish,mediterranean damselfish,mediterranean damselfish|fish
+187316,Cyprinus rubrofuscus,Amur Carp,amur carp,Actinopterygii,fish,amur carp. fish.,amur carp,amur carp,amur carp|fish
+58633,Etheostoma caeruleum,Rainbow Darter,rainbow darter,Actinopterygii,fish,rainbow darter. fish.,rainbow darter,rainbow darter,rainbow darter|fish
+52554,Symphodus tinca,East Atlantic Peacock Wrasse,east atlantic peacock wrasse,Actinopterygii,fish,east atlantic peacock wrasse. fish.,east atlantic peacock wrasse,east atlantic peacock wrasse,east atlantic peacock wrasse|fish
+99544,Dorosoma cepedianum,American Gizzard Shad,american gizzard shad,Actinopterygii,fish,american gizzard shad. fish.,american gizzard shad,american gizzard shad,american gizzard shad|fish
+113980,Thalassoma lunare,Moon Wrasse,moon wrasse,Actinopterygii,fish,moon wrasse. fish.,moon wrasse,moon wrasse,moon wrasse|fish
+103901,Labroides dimidiatus,Bluestreak Cleaner Wrasse,bluestreak cleaner wrasse,Actinopterygii,fish,bluestreak cleaner wrasse. fish.,bluestreak cleaner wrasse,bluestreak cleaner wrasse,bluestreak cleaner wrasse|fish
+49749,Aplodinotus grunniens,Freshwater Drum,freshwater drum,Actinopterygii,fish,freshwater drum. fish.,freshwater drum,freshwater drum,freshwater drum|fish
+49303,Dascyllus trimaculatus,Three-spot Dascyllus,three spot dascyllus,Actinopterygii,fish,three spot dascyllus. fish.,three spot dascyllus,three spot dascyllus,three spot dascyllus|fish
+67658,Paracirrhites forsteri,Freckled Hawkfish,freckled hawkfish,Actinopterygii,fish,freckled hawkfish. fish.,freckled hawkfish,freckled hawkfish,freckled hawkfish|fish
+112118,Scardinius erythrophthalmus,Common Rudd,common rudd,Actinopterygii,fish,common rudd. fish.,common rudd,common rudd,common rudd|fish
+123690,Caranx melampygus,Bluefin Trevally,bluefin trevally,Actinopterygii,fish,bluefin trevally. fish.,bluefin trevally,bluefin trevally,bluefin trevally|fish
+47527,Ostracion meleagris,Spotted Boxfish,spotted boxfish,Actinopterygii,fish,spotted boxfish. fish.,spotted boxfish,spotted boxfish,spotted boxfish|fish
+83318,Arothron meleagris,Guineafowl Puffer,guineafowl puffer,Actinopterygii,fish,guineafowl puffer. fish.,guineafowl puffer,guineafowl puffer,guineafowl puffer|fish
+49378,Ostracion cubicum,Yellow Boxfish,yellow boxfish,Actinopterygii,fish,yellow boxfish. fish.,yellow boxfish,yellow boxfish,yellow boxfish|fish
+67963,Thalassoma hardwicke,Sixbar Wrasse,sixbar wrasse,Actinopterygii,fish,sixbar wrasse. fish.,sixbar wrasse,sixbar wrasse,sixbar wrasse|fish
+69989,Rutilus rutilus,Common Roach,common roach,Actinopterygii,fish,common roach. fish.,common roach,common roach,common roach|fish
+84175,Scarus ghobban,Blue-barred Parrotfish,blue barred parrotfish,Actinopterygii,fish,blue barred parrotfish. fish.,blue barred parrotfish,blue barred parrotfish,blue barred parrotfish|fish
+109885,Poecilia latipinna,Sailfin Molly,sailfin molly,Actinopterygii,fish,sailfin molly. fish.,sailfin molly,sailfin molly,sailfin molly|fish
+48743,Chaetodon lunulatus,Redfin Butterflyfish,redfin butterflyfish,Actinopterygii,fish,redfin butterflyfish. fish.,redfin butterflyfish,redfin butterflyfish,redfin butterflyfish|fish
+48154,Sander vitreus,Walleye,walleye,Actinopterygii,fish,walleye. fish.,walleye,walleye,walleye|fish
+121324,Oreochromis niloticus,Nile Tilapia,nile tilapia,Actinopterygii,fish,nile tilapia. fish.,nile tilapia,nile tilapia,nile tilapia|fish
+871060,Acanthurus tractus,Caribbean Ocean Surgeonfish,caribbean ocean surgeonfish,Actinopterygii,fish,caribbean ocean surgeonfish. fish.,caribbean ocean surgeonfish,caribbean ocean surgeonfish,caribbean ocean surgeonfish|fish
+94635,Ariopsis felis,Hardhead Catfish,hardhead catfish,Actinopterygii,fish,hardhead catfish. fish.,hardhead catfish,hardhead catfish,hardhead catfish|fish
+123459,Pterois miles,Indian Lionfish,indian lionfish,Actinopterygii,fish,indian lionfish. fish.,indian lionfish,indian lionfish,indian lionfish|fish
+118590,Muraena helena,Mediterranean Moray,mediterranean moray,Actinopterygii,fish,mediterranean moray. fish.,mediterranean moray,mediterranean moray,mediterranean moray|fish
+58657,Ameiurus natalis,Yellow Bullhead,yellow bullhead,Actinopterygii,fish,yellow bullhead. fish.,yellow bullhead,yellow bullhead,yellow bullhead|fish
+57743,Balistapus undulatus,Orangestripe Triggerfish,orangestripe triggerfish,Actinopterygii,fish,orangestripe triggerfish. fish.,orangestripe triggerfish,orangestripe triggerfish,orangestripe triggerfish|fish
+49219,Anguilla rostrata,American Eel,american eel,Actinopterygii,fish,american eel. fish.,american eel,american eel,american eel|fish
+96631,Campostoma anomalum,Central Stoneroller,central stoneroller,Actinopterygii,fish,central stoneroller. fish.,central stoneroller,central stoneroller,central stoneroller|fish
+51402,Megalops atlanticus,Atlantic Tarpon,atlantic tarpon,Actinopterygii,fish,atlantic tarpon. fish.,atlantic tarpon,atlantic tarpon,atlantic tarpon|fish
+311414,Tetractenos glaber,Smooth Toadfish,smooth toadfish,Actinopterygii,fish,smooth toadfish. fish.,smooth toadfish,smooth toadfish,smooth toadfish|fish
+54441,Echidna nebulosa,Snowflake Moray,snowflake moray,Actinopterygii,fish,snowflake moray. fish.,snowflake moray,snowflake moray,snowflake moray|fish
+83297,Scarus rubroviolaceus,Redlip Parrotfish,redlip parrotfish,Actinopterygii,fish,redlip parrotfish. fish.,redlip parrotfish,redlip parrotfish,redlip parrotfish|fish
+101053,Fundulus diaphanus,Banded Killifish,banded killifish,Actinopterygii,fish,banded killifish. fish.,banded killifish,banded killifish,banded killifish|fish
+52456,Cephalopholis argus,Peacock Grouper,peacock grouper,Actinopterygii,fish,peacock grouper. fish.,peacock grouper,peacock grouper,peacock grouper|fish
+84498,Rhinichthys obtusus,Western Blacknose Dace,western blacknose dace,Actinopterygii,fish,western blacknose dace. fish.,western blacknose dace,western blacknose dace,western blacknose dace|fish
+111389,Pygoplites diacanthus,Regal Angelfish,regal angelfish,Actinopterygii,fish,regal angelfish. fish.,regal angelfish,regal angelfish,regal angelfish|fish
+210294,Lipophrys pholis,Shanny,shanny,Actinopterygii,fish,shanny. fish.,shanny,shanny,shanny|fish
+109536,Pimephales promelas,Fathead Minnow,fathead minnow,Actinopterygii,fish,fathead minnow. fish.,fathead minnow,fathead minnow,fathead minnow|fish
+52451,Naso lituratus,Pacific Orange-spine Unicornfish,pacific orange spine unicornfish,Actinopterygii,fish,pacific orange spine unicornfish. fish.,pacific orange spine unicornfish,pacific orange spine unicornfish,pacific orange spine unicornfish|fish
+49601,Mola mola,Common Mola,common mola,Actinopterygii,fish,common mola. fish.,common mola,common mola,common mola|fish
+128750,Sciaenops ocellatus,Red Drum,red drum,Actinopterygii,fish,red drum. fish.,red drum,red drum,red drum|fish
+93137,Achoerodus viridis,Eastern Blue Groper,eastern blue groper,Actinopterygii,fish,eastern blue groper. fish.,eastern blue groper,eastern blue groper,eastern blue groper|fish
+47292,Ocyurus chrysurus,Yellowtail Snapper,yellowtail snapper,Actinopterygii,fish,yellowtail snapper. fish.,yellowtail snapper,yellowtail snapper,yellowtail snapper|fish
+48747,Chaetodon vagabundus,Vagabond Butterflyfish,vagabond butterflyfish,Actinopterygii,fish,vagabond butterflyfish. fish.,vagabond butterflyfish,vagabond butterflyfish,vagabond butterflyfish|fish
+82330,Caranx ruber,Bar Jack,bar jack,Actinopterygii,fish,bar jack. fish.,bar jack,bar jack,bar jack|fish
+82278,Ameiurus melas,Black Bullhead,black bullhead,Actinopterygii,fish,black bullhead. fish.,black bullhead,black bullhead,black bullhead|fish
+118685,Parablennius gattorugine,Tompot Blenny,tompot blenny,Actinopterygii,fish,tompot blenny. fish.,tompot blenny,tompot blenny,tompot blenny|fish
+49493,Thalassoma lucasanum,Cortez Rainbow Wrasse,cortez rainbow wrasse,Actinopterygii,fish,cortez rainbow wrasse. fish.,cortez rainbow wrasse,cortez rainbow wrasse,cortez rainbow wrasse|fish
+69922,Oncorhynchus nerka,Sockeye Salmon,sockeye salmon,Actinopterygii,fish,sockeye salmon. fish.,sockeye salmon,sockeye salmon,sockeye salmon|fish
+68640,Haletta semifasciata,Blue Weed-whiting,blue weed whiting,Actinopterygii,fish,blue weed whiting. fish.,blue weed whiting,blue weed whiting,blue weed whiting|fish
+58659,Hypentelium nigricans,Northern Hog Sucker,northern hog sucker,Actinopterygii,fish,northern hog sucker. fish.,northern hog sucker,northern hog sucker,northern hog sucker|fish
+52464,Melichthys niger,Black Triggerfish,black triggerfish,Actinopterygii,fish,black triggerfish. fish.,black triggerfish,black triggerfish,black triggerfish|fish
+84432,Morone americana,White Perch,white perch,Actinopterygii,fish,white perch. fish.,white perch,white perch,white perch|fish
+58639,Culaea inconstans,Brook Stickleback,brook stickleback,Actinopterygii,fish,brook stickleback. fish.,brook stickleback,brook stickleback,brook stickleback|fish
+107572,Oncorhynchus keta,Chum Salmon,chum salmon,Actinopterygii,fish,chum salmon. fish.,chum salmon,chum salmon,chum salmon|fish
+49210,Plotosus lineatus,Striped Eel Catfish,striped eel catfish,Actinopterygii,fish,striped eel catfish. fish.,striped eel catfish,striped eel catfish,striped eel catfish|fish
+132366,Acanthurus xanthopterus,Yellowfin Surgeonfish,yellowfin surgeonfish,Actinopterygii,fish,yellowfin surgeonfish. fish.,yellowfin surgeonfish,yellowfin surgeonfish,yellowfin surgeonfish|fish
+179880,Chromis viridis,Blue-green Chromis,blue green chromis,Actinopterygii,fish,blue green chromis. fish.,blue green chromis,blue green chromis,blue green chromis|fish
+93611,Alburnus alburnus,Bleak,bleak,Actinopterygii,fish,bleak. fish.,bleak,bleak,bleak|fish
+52460,Tylosurus crocodilus,Houndfish,houndfish,Actinopterygii,fish,houndfish. fish.,houndfish,houndfish,houndfish|fish
+173412,Poecilia reticulata,Guppy,guppy,Actinopterygii,fish,guppy. fish.,guppy,guppy,guppy|fish
+65979,Lithobates catesbeianus,American Bullfrog,american bullfrog,Amphibia,amphibian,american bullfrog. amphibian.,american bullfrog,american bullfrog,american bullfrog|amphibian
+27186,Plethodon cinereus,Eastern Red-backed Salamander,eastern red backed salamander,Amphibia,amphibian,eastern red backed salamander. amphibian.,eastern red backed salamander,eastern red backed salamander,eastern red backed salamander|amphibian
+326296,Bufo bufo,European Toad,european toad,Amphibia,amphibian,european toad. amphibian.,european toad,european toad,european toad|amphibian
+24268,Pseudacris crucifer,Spring Peeper,spring peeper,Amphibia,amphibian,spring peeper. amphibian.,spring peeper,spring peeper,spring peeper|amphibian
+64970,Anaxyrus boreas,Western Toad,western toad,Amphibia,amphibian,western toad. amphibian.,western toad,western toad,western toad|amphibian
+66002,Lithobates palustris,Pickerel Frog,pickerel frog,Amphibia,amphibian,pickerel frog. amphibian.,pickerel frog,pickerel frog,pickerel frog|amphibian
+70421,Acris blanchardi,Blanchard's Cricket Frog,blanchard s cricket frog,Amphibia,amphibian,blanchard s cricket frog. amphibian.,blanchard s cricket frog,blanchard s cricket frog,blanchard s cricket frog|amphibian
+60341,Lithobates sphenocephalus,Southern Leopard Frog,southern leopard frog,Amphibia,amphibian,southern leopard frog. amphibian.,southern leopard frog,southern leopard frog,southern leopard frog|amphibian
+553515,Rhinella marina,Cane Toad,cane toad,Amphibia,amphibian,cane toad. amphibian.,cane toad,cane toad,cane toad|amphibian
+1668922,Dryophytes chrysoscelis,Cope's Gray Tree Frog,cope s gray tree frog,Amphibia,amphibian,cope s gray tree frog. amphibian.,cope s gray tree frog,cope s gray tree frog,cope s gray tree frog|amphibian
+24230,Acris crepitans,Northern Cricket Frog,northern cricket frog,Amphibia,amphibian,northern cricket frog. amphibian.,northern cricket frog,northern cricket frog,northern cricket frog|amphibian
+556621,Bombina variegata,Yellow-bellied Toad,yellow bellied toad,Amphibia,amphibian,yellow bellied toad. amphibian.,yellow bellied toad,yellow bellied toad,yellow bellied toad|amphibian
+23702,Agalychnis callidryas,Red-eyed Tree Frog,red eyed tree frog,Amphibia,amphibian,red eyed tree frog. amphibian.,red eyed tree frog,red eyed tree frog,red eyed tree frog|amphibian
+25488,Rana arvalis,Moor Frog,moor frog,Amphibia,amphibian,moor frog. amphibian.,moor frog,moor frog,moor frog|amphibian
+64377,Lissotriton helveticus,Palmate Newt,palmate newt,Amphibia,amphibian,palmate newt. amphibian.,palmate newt,palmate newt,palmate newt|amphibian
+326303,Kaloula pulchra,Asian Painted Frog,asian painted frog,Amphibia,amphibian,asian painted frog. amphibian.,asian painted frog,asian painted frog,asian painted frog|amphibian
+27486,Pseudotriton ruber,Red Salamander,red salamander,Amphibia,amphibian,red salamander. amphibian.,red salamander,red salamander,red salamander|amphibian
+22039,Limnodynastes peronii,Striped Marsh Frog,striped marsh frog,Amphibia,amphibian,striped marsh frog. amphibian.,striped marsh frog,striped marsh frog,striped marsh frog|amphibian
+27718,Triturus cristatus,Great Crested Newt,great crested newt,Amphibia,amphibian,great crested newt. amphibian.,great crested newt,great crested newt,great crested newt|amphibian
+24255,Pseudacris maculata,Boreal Chorus Frog,boreal chorus frog,Amphibia,amphibian,boreal chorus frog. amphibian.,boreal chorus frog,boreal chorus frog,boreal chorus frog|amphibian
+26695,Scaphiopus holbrookii,Eastern Spadefoot,eastern spadefoot,Amphibia,amphibian,eastern spadefoot. amphibian.,eastern spadefoot,eastern spadefoot,eastern spadefoot|amphibian
+67016,Rana draytonii,California Red-legged Frog,california red legged frog,Amphibia,amphibian,california red legged frog. amphibian.,california red legged frog,california red legged frog,california red legged frog|amphibian
+27123,Eurycea lucifuga,Cave Salamander,cave salamander,Amphibia,amphibian,cave salamander. amphibian.,cave salamander,cave salamander,cave salamander|amphibian
+66479,Platyplectrum ornatum,Ornate Burrowing Frog,ornate burrowing frog,Amphibia,amphibian,ornate burrowing frog. amphibian.,ornate burrowing frog,ornate burrowing frog,ornate burrowing frog|amphibian
+27500,Gyrinophilus porphyriticus,Spring Salamander,spring salamander,Amphibia,amphibian,spring salamander. amphibian.,spring salamander,spring salamander,spring salamander|amphibian
+65828,Incilius alvarius,Sonoran Desert Toad,sonoran desert toad,Amphibia,amphibian,sonoran desert toad. amphibian.,sonoran desert toad,sonoran desert toad,sonoran desert toad|amphibian
+22038,Limnodynastes dumerilii,Eastern Banjo Frog,eastern banjo frog,Amphibia,amphibian,eastern banjo frog. amphibian.,eastern banjo frog,eastern banjo frog,eastern banjo frog|amphibian
+66264,Odorrana swinhoana,Swinhoe's frog,swinhoe s frog,Amphibia,amphibian,swinhoe s frog. amphibian.,swinhoe s frog,swinhoe s frog,swinhoe s frog|amphibian
+66131,Microhyla fissipes,East Asian Ornate Chorus Frog,east asian ornate chorus frog,Amphibia,amphibian,east asian ornate chorus frog. amphibian.,east asian ornate chorus frog,east asian ornate chorus frog,east asian ornate chorus frog|amphibian
+1668953,Dryophytes femoralis,Pine Woods Tree Frog,pine woods tree frog,Amphibia,amphibian,pine woods tree frog. amphibian.,pine woods tree frog,pine woods tree frog,pine woods tree frog|amphibian
+27474,Batrachoseps nigriventris,Black-bellied Slender Salamander,black bellied slender salamander,Amphibia,amphibian,black bellied slender salamander. amphibian.,black bellied slender salamander,black bellied slender salamander,black bellied slender salamander|amphibian
+64973,Anaxyrus cognatus,Great Plains Toad,great plains toad,Amphibia,amphibian,great plains toad. amphibian.,great plains toad,great plains toad,great plains toad|amphibian
+26651,Kurixalus idiootocus,Temple Tree Frog,temple tree frog,Amphibia,amphibian,temple tree frog. amphibian.,temple tree frog,temple tree frog,temple tree frog|amphibian
+22036,Limnodynastes tasmaniensis,Spotted Marsh Frog,spotted marsh frog,Amphibia,amphibian,spotted marsh frog. amphibian.,spotted marsh frog,spotted marsh frog,spotted marsh frog|amphibian
+27188,Plethodon cylindraceus,White-spotted Slimy Salamander,white spotted slimy salamander,Amphibia,amphibian,white spotted slimy salamander. amphibian.,white spotted slimy salamander,white spotted slimy salamander,white spotted slimy salamander|amphibian
+65976,Lithobates blairi,Plains Leopard Frog,plains leopard frog,Amphibia,amphibian,plains leopard frog. amphibian.,plains leopard frog,plains leopard frog,plains leopard frog|amphibian
+27735,Salamandra atra,Alpine Salamander,alpine salamander,Amphibia,amphibian,alpine salamander. amphibian.,alpine salamander,alpine salamander,alpine salamander|amphibian
+66007,Lithobates septentrionalis,Mink Frog,mink frog,Amphibia,amphibian,mink frog. amphibian.,mink frog,mink frog,mink frog|amphibian
+65448,Engystomops pustulosus,Túngara Frog,tungara frog,Amphibia,amphibian,tungara frog. amphibian.,tungara frog,tungara frog,tungara frog|amphibian
+64987,Anaxyrus speciosus,Texas Toad,texas toad,Amphibia,amphibian,texas toad. amphibian.,texas toad,texas toad,texas toad|amphibian
+923294,Zhangixalus moltrechti,Moltrecht's Green Tree Frog,moltrecht s green tree frog,Amphibia,amphibian,moltrecht s green tree frog. amphibian.,moltrecht s green tree frog,moltrecht s green tree frog,moltrecht s green tree frog|amphibian
+64985,Anaxyrus quercicus,Oak Toad,oak toad,Amphibia,amphibian,oak toad. amphibian.,oak toad,oak toad,oak toad|amphibian
+27519,Speleomantes strinatii,Strinati's Cave Salamander,strinati s cave salamander,Amphibia,amphibian,strinati s cave salamander. amphibian.,strinati s cave salamander,strinati s cave salamander,strinati s cave salamander|amphibian
+25231,Crinia signifera,Common Eastern Froglet,common eastern froglet,Amphibia,amphibian,common eastern froglet. amphibian.,common eastern froglet,common eastern froglet,common eastern froglet|amphibian
+27107,Eurycea guttolineata,Three-lined Salamander,three lined salamander,Amphibia,amphibian,three lined salamander. amphibian.,three lined salamander,three lined salamander,three lined salamander|amphibian
+710315,Buergeria otai,Ota's stream tree frog,ota s stream tree frog,Amphibia,amphibian,ota s stream tree frog. amphibian.,ota s stream tree frog,ota s stream tree frog,ota s stream tree frog|amphibian
+24263,Pseudacris feriarum,Upland Chorus Frog,upland chorus frog,Amphibia,amphibian,upland chorus frog. amphibian.,upland chorus frog,upland chorus frog,upland chorus frog|amphibian
+25457,Xenopus laevis,African Clawed Frog,african clawed frog,Amphibia,amphibian,african clawed frog. amphibian.,african clawed frog,african clawed frog,african clawed frog|amphibian
+22454,Eleutherodactylus coqui,Common Coqui,common coqui,Amphibia,amphibian,common coqui. amphibian.,common coqui,common coqui,common coqui|amphibian
+24322,Scinax ruber,Red Snouted Tree Frog,red snouted tree frog,Amphibia,amphibian,red snouted tree frog. amphibian.,red snouted tree frog,red snouted tree frog,red snouted tree frog|amphibian
+26258,Hoplobatrachus tigerinus,Indus Valley Bullfrog,indus valley bullfrog,Amphibia,amphibian,indus valley bullfrog. amphibian.,indus valley bullfrog,indus valley bullfrog,indus valley bullfrog|amphibian
+1423577,Hoplobatrachus chinensis,East Asian Bullfrog,east asian bullfrog,Amphibia,amphibian,east asian bullfrog. amphibian.,east asian bullfrog,east asian bullfrog,east asian bullfrog|amphibian
+24267,Pseudacris triseriata,Western Chorus Frog,western chorus frog,Amphibia,amphibian,western chorus frog. amphibian.,western chorus frog,western chorus frog,western chorus frog|amphibian
+6930,Anas platyrhynchos,Mallard,mallard,Aves,bird,mallard. bird.,mallard,mallard,mallard|bird
+13858,Passer domesticus,House Sparrow,house sparrow,Aves,bird,house sparrow. bird.,house sparrow,house sparrow,house sparrow|bird
+4956,Ardea herodias,Great Blue Heron,great blue heron,Aves,bird,great blue heron. bird.,great blue heron,great blue heron,great blue heron|bird
+7089,Branta canadensis,Canada Goose,canada goose,Aves,bird,canada goose. bird.,canada goose,canada goose,canada goose|bird
+12727,Turdus migratorius,American Robin,american robin,Aves,bird,american robin. bird.,american robin,american robin,american robin|bird
+3017,Columba livia,Rock Pigeon,rock pigeon,Aves,bird,rock pigeon. bird.,rock pigeon,rock pigeon,rock pigeon|bird
+144455,Ardea alba,Great Egret,great egret,Aves,bird,great egret. bird.,great egret,great egret,great egret|bird
+9083,Cardinalis cardinalis,Northern Cardinal,northern cardinal,Aves,bird,northern cardinal. bird.,northern cardinal,northern cardinal,northern cardinal|bird
+14850,Sturnus vulgaris,European Starling,european starling,Aves,bird,european starling. bird.,european starling,european starling,european starling|bird
+3454,Zenaida macroura,Mourning Dove,mourning dove,Aves,bird,mourning dove. bird.,mourning dove,mourning dove,mourning dove|bird
+9744,Agelaius phoeniceus,Red-winged Blackbird,red winged blackbird,Aves,bird,red winged blackbird. bird.,red winged blackbird,red winged blackbird,red winged blackbird|bird
+4756,Cathartes aura,Turkey Vulture,turkey vulture,Aves,bird,turkey vulture. bird.,turkey vulture,turkey vulture,turkey vulture|bird
+10094,Junco hyemalis,Dark-eyed Junco,dark eyed junco,Aves,bird,dark eyed junco. bird.,dark eyed junco,dark eyed junco,dark eyed junco|bird
+145245,Setophaga coronata,Yellow-rumped Warbler,yellow rumped warbler,Aves,bird,yellow rumped warbler. bird.,yellow rumped warbler,yellow rumped warbler,yellow rumped warbler|bird
+4954,Ardea cinerea,Grey Heron,grey heron,Aves,bird,grey heron. bird.,grey heron,grey heron,grey heron|bird
+14886,Mimus polyglottos,Northern Mockingbird,northern mockingbird,Aves,bird,northern mockingbird. bird.,northern mockingbird,northern mockingbird,northern mockingbird|bird
+5305,Haliaeetus leucocephalus,Bald Eagle,bald eagle,Aves,bird,bald eagle. bird.,bald eagle,bald eagle,bald eagle|bird
+116999,Pandion haliaetus,Osprey,osprey,Aves,bird,osprey. bird.,osprey,osprey,osprey|bird
+1454382,Nannopterum auritum,Double-crested Cormorant,double crested cormorant,Aves,bird,double crested cormorant. bird.,double crested cormorant,double crested cormorant,double crested cormorant|bird
+792988,Dryobates pubescens,Downy Woodpecker,downy woodpecker,Aves,bird,downy woodpecker. bird.,downy woodpecker,downy woodpecker,downy woodpecker|bird
+11901,Hirundo rustica,Barn Swallow,barn swallow,Aves,bird,barn swallow. bird.,barn swallow,barn swallow,barn swallow|bird
+906,Meleagris gallopavo,Wild Turkey,wild turkey,Aves,bird,wild turkey. bird.,wild turkey,wild turkey,wild turkey|bird
+13695,Motacilla alba,White Wagtail,white wagtail,Aves,bird,white wagtail. bird.,white wagtail,white wagtail,white wagtail|bird
+145310,Spinus tristis,American Goldfinch,american goldfinch,Aves,bird,american goldfinch. bird.,american goldfinch,american goldfinch,american goldfinch|bird
+6921,Cygnus olor,Mute Swan,mute swan,Aves,bird,mute swan. bird.,mute swan,mute swan,mute swan|bird
+8229,Cyanocitta cristata,Blue Jay,blue jay,Aves,bird,blue jay. bird.,blue jay,blue jay,blue jay|bird
+482,Fulica atra,Eurasian Coot,eurasian coot,Aves,bird,eurasian coot. bird.,eurasian coot,eurasian coot,eurasian coot|bird
+473,Fulica americana,American Coot,american coot,Aves,bird,american coot. bird.,american coot,american coot,american coot|bird
+8021,Corvus brachyrhynchos,American Crow,american crow,Aves,bird,american crow. bird.,american crow,american crow,american crow|bird
+891696,Pica pica,Eurasian Magpie,eurasian magpie,Aves,bird,eurasian magpie. bird.,eurasian magpie,eurasian magpie,eurasian magpie|bird
+9176,Zonotrichia leucophrys,White-crowned Sparrow,white crowned sparrow,Aves,bird,white crowned sparrow. bird.,white crowned sparrow,white crowned sparrow,white crowned sparrow|bird
+8010,Corvus corax,Common Raven,common raven,Aves,bird,common raven. bird.,common raven,common raven,common raven|bird
+2969,Streptopelia decaocto,Eurasian Collared-Dove,eurasian collared dove,Aves,bird,eurasian collared dove. bird.,eurasian collared dove,eurasian collared dove,eurasian collared dove|bird
+4765,Coragyps atratus,Black Vulture,black vulture,Aves,bird,black vulture. bird.,black vulture,black vulture,black vulture|bird
+4665,Falco sparverius,American Kestrel,american kestrel,Aves,bird,american kestrel. bird.,american kestrel,american kestrel,american kestrel|bird
+4943,Egretta garzetta,Little Egret,little egret,Aves,bird,little egret. bird.,little egret,little egret,little egret|bird
+9184,Zonotrichia albicollis,White-throated Sparrow,white throated sparrow,Aves,bird,white throated sparrow. bird.,white throated sparrow,white throated sparrow,white throated sparrow|bird
+7107,Aix sponsa,Wood Duck,wood duck,Aves,bird,wood duck. bird.,wood duck,wood duck,wood duck|bird
+6993,Bucephala albeola,Bufflehead,bufflehead,Aves,bird,bufflehead. bird.,bufflehead,bufflehead,bufflehead|bird
+3751,Eudocimus albus,White Ibis,white ibis,Aves,bird,white ibis. bird.,white ibis,white ibis,white ibis|bird
+12707,Turdus pilaris,Fieldfare,fieldfare,Aves,bird,fieldfare. bird.,fieldfare,fieldfare,fieldfare|bird
+20044,Bubo virginianus,Great Horned Owl,great horned owl,Aves,bird,great horned owl. bird.,great horned owl,great horned owl,great horned owl|bird
+144479,Gallinula galeata,Common Gallinule,common gallinule,Aves,bird,common gallinule. bird.,common gallinule,common gallinule,common gallinule|bird
+204496,Corvus corone,Carrion Crow,carrion crow,Aves,bird,carrion crow. bird.,carrion crow,carrion crow,carrion crow|bird
+506118,Aphelocoma californica,California Scrub-Jay,california scrub jay,Aves,bird,california scrub jay. bird.,california scrub jay,california scrub jay,california scrub jay|bird
+9420,Pipilo maculatus,Spotted Towhee,spotted towhee,Aves,bird,spotted towhee. bird.,spotted towhee,spotted towhee,spotted towhee|bird
+9721,Geothlypis trichas,Common Yellowthroat,common yellowthroat,Aves,bird,common yellowthroat. bird.,common yellowthroat,common yellowthroat,common yellowthroat|bird
+1188207,Setophaga aestiva,Northern Yellow Warbler,northern yellow warbler,Aves,bird,northern yellow warbler. bird.,northern yellow warbler,northern yellow warbler,northern yellow warbler|bird
+7278,Aegithalos caudatus,Long-tailed Tit,long tailed tit,Aves,bird,long tailed tit. bird.,long tailed tit,long tailed tit,long tailed tit|bird
+19893,Strix varia,Barred Owl,barred owl,Aves,bird,barred owl. bird.,barred owl,barred owl,barred owl|bird
+3864,Calidris minutilla,Least Sandpiper,least sandpiper,Aves,bird,least sandpiper. bird.,least sandpiper,least sandpiper,least sandpiper|bird
+145242,Setophaga palmarum,Palm Warbler,palm warbler,Aves,bird,palm warbler. bird.,palm warbler,palm warbler,palm warbler|bird
+6996,Mergus serrator,Red-breasted Merganser,red breasted merganser,Aves,bird,red breasted merganser. bird.,red breasted merganser,red breasted merganser,red breasted merganser|bird
+12748,Turdus philomelos,Song Thrush,song thrush,Aves,bird,song thrush. bird.,song thrush,song thrush,song thrush|bird
+4450,Sterna hirundo,Common Tern,common tern,Aves,bird,common tern. bird.,common tern,common tern,common tern|bird
+3857,Calidris alpina,Dunlin,dunlin,Aves,bird,dunlin. bird.,dunlin,dunlin,dunlin|bird
+9195,Emberiza citrinella,Yellowhammer,yellowhammer,Aves,bird,yellowhammer. bird.,yellowhammer,yellowhammer,yellowhammer|bird
+7054,Aythya affinis,Lesser Scaup,lesser scaup,Aves,bird,lesser scaup. bird.,lesser scaup,lesser scaup,lesser scaup|bird
+10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,rose breasted grosbeak,Aves,bird,rose breasted grosbeak. bird.,rose breasted grosbeak,rose breasted grosbeak,rose breasted grosbeak|bird
+14823,Sitta canadensis,Red-breasted Nuthatch,red breasted nuthatch,Aves,bird,red breasted nuthatch. bird.,red breasted nuthatch,red breasted nuthatch,red breasted nuthatch|bird
+19349,Myiopsitta monachus,Monk Parakeet,monk parakeet,Aves,bird,monk parakeet. bird.,monk parakeet,monk parakeet,monk parakeet|bird
+882,Gallus gallus,Red Junglefowl,red junglefowl,Aves,bird,red junglefowl. bird.,red junglefowl,red junglefowl,red junglefowl|bird
+1204,Pavo cristatus,Indian Peafowl,indian peafowl,Aves,bird,indian peafowl. bird.,indian peafowl,indian peafowl,indian peafowl|bird
+204520,Hemiphaga novaeseelandiae,New Zealand Pigeon,new zealand pigeon,Aves,bird,new zealand pigeon. bird.,new zealand pigeon,new zealand pigeon,new zealand pigeon|bird
+42223,Odocoileus virginianus,White-tailed Deer,white tailed deer,Mammalia,mammal,white tailed deer. mammal.,white tailed deer,white tailed deer,white tailed deer|mammal
+46017,Sciurus carolinensis,Eastern Gray Squirrel,eastern gray squirrel,Mammalia,mammal,eastern gray squirrel. mammal.,eastern gray squirrel,eastern gray squirrel,eastern gray squirrel|mammal
+41663,Procyon lotor,Common Raccoon,common raccoon,Mammalia,mammal,common raccoon. mammal.,common raccoon,common raccoon,common raccoon|mammal
+43111,Sylvilagus floridanus,Eastern Cottontail,eastern cottontail,Mammalia,mammal,eastern cottontail. mammal.,eastern cottontail,eastern cottontail,eastern cottontail|mammal
+46020,Sciurus niger,Eastern Fox Squirrel,eastern fox squirrel,Mammalia,mammal,eastern fox squirrel. mammal.,eastern fox squirrel,eastern fox squirrel,eastern fox squirrel|mammal
+42069,Vulpes vulpes,Red Fox,red fox,Mammalia,mammal,red fox. mammal.,red fox,red fox,red fox|mammal
+42051,Canis latrans,Coyote,coyote,Mammalia,mammal,coyote. mammal.,coyote,coyote,coyote|mammal
+46217,Tamias striatus,Eastern Chipmunk,eastern chipmunk,Mammalia,mammal,eastern chipmunk. mammal.,eastern chipmunk,eastern chipmunk,eastern chipmunk|mammal
+43794,Castor canadensis,American Beaver,american beaver,Mammalia,mammal,american beaver. mammal.,american beaver,american beaver,american beaver|mammal
+42652,Didelphis virginiana,Virginia Opossum,virginia opossum,Mammalia,mammal,virginia opossum. mammal.,virginia opossum,virginia opossum,virginia opossum|mammal
+42184,Capreolus capreolus,Western Roe Deer,western roe deer,Mammalia,mammal,western roe deer. mammal.,western roe deer,western roe deer,western roe deer|mammal
+45763,Ondatra zibethicus,Muskrat,muskrat,Mammalia,mammal,muskrat. mammal.,muskrat,muskrat,muskrat|mammal
+43115,Sylvilagus audubonii,Desert Cottontail,desert cottontail,Mammalia,mammal,desert cottontail. mammal.,desert cottontail,desert cottontail,desert cottontail|mammal
+43151,Oryctolagus cuniculus,European Rabbit,european rabbit,Mammalia,mammal,european rabbit. mammal.,european rabbit,european rabbit,european rabbit|mammal
+41976,Lynx rufus,Bobcat,bobcat,Mammalia,mammal,bobcat. mammal.,bobcat,bobcat,bobcat|mammal
+41740,Zalophus californianus,California Sea Lion,california sea lion,Mammalia,mammal,california sea lion. mammal.,california sea lion,california sea lion,california sea lion|mammal
+43997,Myocastor coypus,Coypu,coypu,Mammalia,mammal,coypu. mammal.,coypu,coypu,coypu|mammal
+43128,Lepus europaeus,Brown Hare,brown hare,Mammalia,mammal,brown hare. mammal.,brown hare,brown hare,brown hare|mammal
+42888,Macropus giganteus,Eastern Grey Kangaroo,eastern grey kangaroo,Mammalia,mammal,eastern grey kangaroo. mammal.,eastern grey kangaroo,eastern grey kangaroo,eastern grey kangaroo|mammal
+42391,Ovis canadensis,Bighorn Sheep,bighorn sheep,Mammalia,mammal,bighorn sheep. mammal.,bighorn sheep,bighorn sheep,bighorn sheep|mammal
+44026,Erethizon dorsatum,North American Porcupine,north american porcupine,Mammalia,mammal,north american porcupine. mammal.,north american porcupine,north american porcupine,north american porcupine|mammal
+43694,Loxodonta africana,African Savanna Elephant,african savanna elephant,Mammalia,mammal,african savanna elephant. mammal.,african savanna elephant,african savanna elephant,african savanna elephant|mammal
+41673,Nasua narica,White-nosed Coati,white nosed coati,Mammalia,mammal,white nosed coati. mammal.,white nosed coati,white nosed coati,white nosed coati|mammal
+47144,Canis familiaris,Domestic Dog,domestic dog,Mammalia,mammal,domestic dog. mammal.,domestic dog,domestic dog,domestic dog|mammal
+44576,Rattus norvegicus,Brown Rat,brown rat,Mammalia,mammal,brown rat. mammal.,brown rat,brown rat,brown rat|mammal
+43239,Tachyglossus aculeatus,Short-beaked Echidna,short beaked echidna,Mammalia,mammal,short beaked echidna. mammal.,short beaked echidna,short beaked echidna,short beaked echidna|mammal
+42429,Antilocapra americana,Pronghorn,pronghorn,Mammalia,mammal,pronghorn. mammal.,pronghorn,pronghorn,pronghorn|mammal
+180010,Callospermophilus lateralis,Common Golden-mantled Ground Squirrel,common golden mantled ground squirrel,Mammalia,mammal,common golden mantled ground squirrel. mammal.,common golden mantled ground squirrel,common golden mantled ground squirrel,common golden mantled ground squirrel|mammal
+43130,Lepus californicus,Black-tailed Jackrabbit,black tailed jackrabbit,Mammalia,mammal,black tailed jackrabbit. mammal.,black tailed jackrabbit,black tailed jackrabbit,black tailed jackrabbit|mammal
+1264432,Neogale vison,American Mink,american mink,Mammalia,mammal,american mink. mammal.,american mink,american mink,american mink|mammal
+43459,Macaca fascicularis,Long-tailed Macaque,long tailed macaque,Mammalia,mammal,long tailed macaque. mammal.,long tailed macaque,long tailed macaque,long tailed macaque|mammal
+42149,Hippopotamus amphibius,Common Hippopotamus,common hippopotamus,Mammalia,mammal,common hippopotamus. mammal.,common hippopotamus,common hippopotamus,common hippopotamus|mammal
+43436,Alouatta palliata,Mantled Howler Monkey,mantled howler monkey,Mammalia,mammal,mantled howler monkey. mammal.,mantled howler monkey,mantled howler monkey,mantled howler monkey|mammal
+74442,Hydrochoerus hydrochaeris,Capybara,capybara,Mammalia,mammal,capybara. mammal.,capybara,capybara,capybara|mammal
+1510571,Giraffa giraffa,Southern Giraffe,southern giraffe,Mammalia,mammal,southern giraffe. mammal.,southern giraffe,southern giraffe,southern giraffe|mammal
+47067,Bradypus variegatus,Brown-throated Three-toed Sloth,brown throated three toed sloth,Mammalia,mammal,brown throated three toed sloth. mammal.,brown throated three toed sloth,brown throated three toed sloth,brown throated three toed sloth|mammal
+42280,Connochaetes taurinus,Common Wildebeest,common wildebeest,Mammalia,mammal,common wildebeest. mammal.,common wildebeest,common wildebeest,common wildebeest|mammal
+41728,Mirounga angustirostris,Northern Elephant Seal,northern elephant seal,Mammalia,mammal,northern elephant seal. mammal.,northern elephant seal,northern elephant seal,northern elephant seal|mammal
+42881,Macropus fuliginosus,Western Grey Kangaroo,western grey kangaroo,Mammalia,mammal,western grey kangaroo. mammal.,western grey kangaroo,western grey kangaroo,western grey kangaroo|mammal
+46082,Marmota marmota,Alpine Marmot,alpine marmot,Mammalia,mammal,alpine marmot. mammal.,alpine marmot,alpine marmot,alpine marmot|mammal
+1369296,Cebus imitator,Central American White-faced Capuchin,central american white faced capuchin,Mammalia,mammal,central american white faced capuchin. mammal.,central american white faced capuchin,central american white faced capuchin,central american white faced capuchin|mammal
+42048,Canis lupus,Gray Wolf,gray wolf,Mammalia,mammal,gray wolf. mammal.,gray wolf,gray wolf,gray wolf|mammal
+42339,Tragelaphus strepsiceros,Greater Kudu,greater kudu,Mammalia,mammal,greater kudu. mammal.,greater kudu,greater kudu,greater kudu|mammal
+42328,Kobus ellipsiprymnus,Waterbuck,waterbuck,Mammalia,mammal,waterbuck. mammal.,waterbuck,waterbuck,waterbuck|mammal
+46316,Trichechus manatus,West Indian Manatee,west indian manatee,Mammalia,mammal,west indian manatee. mammal.,west indian manatee,west indian manatee,west indian manatee|mammal
+43112,Sylvilagus bachmani,Brush Rabbit,brush rabbit,Mammalia,mammal,brush rabbit. mammal.,brush rabbit,brush rabbit,brush rabbit|mammal
+43009,Vombatus ursinus,Bare-nosed Wombat,bare nosed wombat,Mammalia,mammal,bare nosed wombat. mammal.,bare nosed wombat,bare nosed wombat,bare nosed wombat|mammal
+43102,Sylvilagus palustris,Marsh Rabbit,marsh rabbit,Mammalia,mammal,marsh rabbit. mammal.,marsh rabbit,marsh rabbit,marsh rabbit|mammal
+43411,Ateles geoffroyi,Central American Spider Monkey,central american spider monkey,Mammalia,mammal,central american spider monkey. mammal.,central american spider monkey,central american spider monkey,central american spider monkey|mammal
+42199,Rangifer tarandus,Caribou,caribou,Mammalia,mammal,caribou. mammal.,caribou,caribou,caribou|mammal
+43460,Macaca mulatta,Rhesus Macaque,rhesus macaque,Mammalia,mammal,rhesus macaque. mammal.,rhesus macaque,rhesus macaque,rhesus macaque|mammal
+41963,Panthera pardus,Leopard,leopard,Mammalia,mammal,leopard. mammal.,leopard,leopard,leopard|mammal
+46005,Sciurus variegatoides,Variegated Squirrel,variegated squirrel,Mammalia,mammal,variegated squirrel. mammal.,variegated squirrel,variegated squirrel,variegated squirrel|mammal
+41886,Crocuta crocuta,Spotted Hyena,spotted hyena,Mammalia,mammal,spotted hyena. mammal.,spotted hyena,spotted hyena,spotted hyena|mammal
+43086,Procavia capensis,Rock Hyrax,rock hyrax,Mammalia,mammal,rock hyrax. mammal.,rock hyrax,rock hyrax,rock hyrax|mammal
+42414,Oreamnos americanus,Mountain Goat,mountain goat,Mammalia,mammal,mountain goat. mammal.,mountain goat,mountain goat,mountain goat|mammal
+179998,Urocitellus columbianus,Columbian Ground Squirrel,columbian ground squirrel,Mammalia,mammal,columbian ground squirrel. mammal.,columbian ground squirrel,columbian ground squirrel,columbian ground squirrel|mammal
+123070,Capra hircus,Domestic Goat,domestic goat,Mammalia,mammal,domestic goat. mammal.,domestic goat,domestic goat,domestic goat|mammal
+41738,Zalophus wollebaeki,Galápagos Sea Lion,galapagos sea lion,Mammalia,mammal,galapagos sea lion. mammal.,galapagos sea lion,galapagos sea lion,galapagos sea lion|mammal
+41676,Bassariscus astutus,Ringtail,ringtail,Mammalia,mammal,ringtail. mammal.,ringtail,ringtail,ringtail|mammal
+40509,Eptesicus fuscus,Big Brown Bat,big brown bat,Mammalia,mammal,big brown bat. mammal.,big brown bat,big brown bat,big brown bat|mammal
+41755,Eumetopias jubatus,Steller Sea Lion,steller sea lion,Mammalia,mammal,steller sea lion. mammal.,steller sea lion,steller sea lion,steller sea lion|mammal
+42357,Capra ibex,Alpine Ibex,alpine ibex,Mammalia,mammal,alpine ibex. mammal.,alpine ibex,alpine ibex,alpine ibex|mammal
+46255,Ammospermophilus leucurus,White-tailed Antelope Squirrel,white tailed antelope squirrel,Mammalia,mammal,white tailed antelope squirrel. mammal.,white tailed antelope squirrel,white tailed antelope squirrel,white tailed antelope squirrel|mammal
+47101,Choloepus hoffmanni,Hoffmann's Two-toed Sloth,hoffmann s two toed sloth,Mammalia,mammal,hoffmann s two toed sloth. mammal.,hoffmann s two toed sloth,hoffmann s two toed sloth,hoffmann s two toed sloth|mammal
+1431867,Tragelaphus sylvaticus,Southern Bushbuck,southern bushbuck,Mammalia,mammal,southern bushbuck. mammal.,southern bushbuck,southern bushbuck,southern bushbuck|mammal
+1210966,Lupulella mesomelas,Black-backed Jackal,black backed jackal,Mammalia,mammal,black backed jackal. mammal.,black backed jackal,black backed jackal,black backed jackal|mammal
+41742,Arctocephalus pusillus,Brown Fur Seal,brown fur seal,Mammalia,mammal,brown fur seal. mammal.,brown fur seal,brown fur seal,brown fur seal|mammal
+43145,Lepus townsendii,White-tailed Jackrabbit,white tailed jackrabbit,Mammalia,mammal,white tailed jackrabbit. mammal.,white tailed jackrabbit,white tailed jackrabbit,white tailed jackrabbit|mammal
+43697,Elephas maximus,Asian Elephant,asian elephant,Mammalia,mammal,asian elephant. mammal.,asian elephant,asian elephant,asian elephant|mammal
+43348,Ceratotherium simum,White Rhinoceros,white rhinoceros,Mammalia,mammal,white rhinoceros. mammal.,white rhinoceros,white rhinoceros,white rhinoceros|mammal
+40905,Pteropus poliocephalus,Grey-headed Flying-fox,grey headed flying fox,Mammalia,mammal,grey headed flying fox. mammal.,grey headed flying fox,grey headed flying fox,grey headed flying fox|mammal
+42418,Alcelaphus buselaphus,Hartebeest,hartebeest,Mammalia,mammal,hartebeest. mammal.,hartebeest,hartebeest,hartebeest|mammal
+74832,Papio anubis,Olive Baboon,olive baboon,Mammalia,mammal,olive baboon. mammal.,olive baboon,olive baboon,olive baboon|mammal
+1511713,Otospermophilus douglasii,Douglas's Ground Squirrel,douglas s ground squirrel,Mammalia,mammal,douglas s ground squirrel. mammal.,douglas s ground squirrel,douglas s ground squirrel,douglas s ground squirrel|mammal
+75053,Rusa unicolor,Sambar,sambar,Mammalia,mammal,sambar. mammal.,sambar,sambar,sambar|mammal
+75192,Tragelaphus oryx,Common Eland,common eland,Mammalia,mammal,common eland. mammal.,common eland,common eland,common eland|mammal
+41670,Nasua nasua,South American Coati,south american coati,Mammalia,mammal,south american coati. mammal.,south american coati,south american coati,south american coati|mammal
+1264431,Neogale frenata,Long-tailed Weasel,long tailed weasel,Mammalia,mammal,long tailed weasel. mammal.,long tailed weasel,long tailed weasel,long tailed weasel|mammal
+44902,Sigmodon hispidus,Hispid Cotton Rat,hispid cotton rat,Mammalia,mammal,hispid cotton rat. mammal.,hispid cotton rat,hispid cotton rat,hispid cotton rat|mammal
+851014,Canis aureus,Golden Jackal,golden jackal,Mammalia,mammal,golden jackal. mammal.,golden jackal,golden jackal,golden jackal|mammal
+41955,Acinonyx jubatus,Cheetah,cheetah,Mammalia,mammal,cheetah. mammal.,cheetah,cheetah,cheetah|mammal
+1431273,Clethrionomys glareolus,Bank Vole,bank vole,Mammalia,mammal,bank vole. mammal.,bank vole,bank vole,bank vole|mammal
+42283,Antidorcas marsupialis,Springbok,springbok,Mammalia,mammal,springbok. mammal.,springbok,springbok,springbok|mammal
+41970,Panthera onca,Jaguar,jaguar,Mammalia,mammal,jaguar. mammal.,jaguar,jaguar,jaguar|mammal
+41440,Phocoena phocoena,Harbour Porpoise,harbour porpoise,Mammalia,mammal,harbour porpoise. mammal.,harbour porpoise,harbour porpoise,harbour porpoise|mammal
+43109,Sylvilagus nuttallii,Mountain Cottontail,mountain cottontail,Mammalia,mammal,mountain cottontail. mammal.,mountain cottontail,mountain cottontail,mountain cottontail|mammal
+42342,Tragelaphus angasii,Nyala,nyala,Mammalia,mammal,nyala. mammal.,nyala,nyala,nyala|mammal
+44173,Hystrix africaeaustralis,Cape Porcupine,cape porcupine,Mammalia,mammal,cape porcupine. mammal.,cape porcupine,cape porcupine,cape porcupine|mammal
+453109,Pekania pennanti,Fisher,fisher,Mammalia,mammal,fisher. mammal.,fisher,fisher,fisher|mammal
+42308,Oryx gazella,Gemsbok,gemsbok,Mammalia,mammal,gemsbok. mammal.,gemsbok,gemsbok,gemsbok|mammal
+47105,Tamandua mexicana,Northern Tamandua,northern tamandua,Mammalia,mammal,northern tamandua. mammal.,northern tamandua,northern tamandua,northern tamandua|mammal
+46272,Glaucomys volans,Southern Flying Squirrel,southern flying squirrel,Mammalia,mammal,southern flying squirrel. mammal.,southern flying squirrel,southern flying squirrel,southern flying squirrel|mammal
+43116,Sylvilagus aquaticus,Swamp Rabbit,swamp rabbit,Mammalia,mammal,swamp rabbit. mammal.,swamp rabbit,swamp rabbit,swamp rabbit|mammal
+45949,Callosciurus finlaysonii,Finlayson's Squirrel,finlayson s squirrel,Mammalia,mammal,finlayson s squirrel. mammal.,finlayson s squirrel,finlayson s squirrel,finlayson s squirrel|mammal
+45562,Apodemus sylvaticus,European Wood Mouse,european wood mouse,Mammalia,mammal,european wood mouse. mammal.,european wood mouse,european wood mouse,european wood mouse|mammal
+42649,Didelphis marsupialis,Southern Opossum,southern opossum,Mammalia,mammal,southern opossum. mammal.,southern opossum,southern opossum,southern opossum|mammal
+121578,Ovis aries,Domestic Sheep,domestic sheep,Mammalia,mammal,domestic sheep. mammal.,domestic sheep,domestic sheep,domestic sheep|mammal
+569428,Mustela nivalis,Least Weasel,least weasel,Mammalia,mammal,least weasel. mammal.,least weasel,least weasel,least weasel|mammal
+44311,Microtus pennsylvanicus,Eastern Meadow Vole,eastern meadow vole,Mammalia,mammal,eastern meadow vole. mammal.,eastern meadow vole,eastern meadow vole,eastern meadow vole|mammal
+41796,Martes martes,Eurasian Pine Marten,eurasian pine marten,Mammalia,mammal,eurasian pine marten. mammal.,eurasian pine marten,eurasian pine marten,eurasian pine marten|mammal
+43353,Tapirus terrestris,South American Tapir,south american tapir,Mammalia,mammal,south american tapir. mammal.,south american tapir,south american tapir,south american tapir|mammal
+81925,Bubalus bubalis,Domestic Water Buffalo,domestic water buffalo,Mammalia,mammal,domestic water buffalo. mammal.,domestic water buffalo,domestic water buffalo,domestic water buffalo|mammal
+46414,Sorex araneus,Common Shrew,common shrew,Mammalia,mammal,common shrew. mammal.,common shrew,common shrew,common shrew|mammal
+41967,Panthera tigris,Tiger,tiger,Mammalia,mammal,tiger. mammal.,tiger,tiger,tiger|mammal
+44396,Peromyscus maniculatus,Eastern Deermouse,eastern deermouse,Mammalia,mammal,eastern deermouse. mammal.,eastern deermouse,eastern deermouse,eastern deermouse|mammal
+36204,Sceloporus occidentalis,Western Fence Lizard,western fence lizard,Reptilia,reptile,western fence lizard. reptile.,western fence lizard,western fence lizard,western fence lizard|reptile
+39771,Chrysemys picta,Painted Turtle,painted turtle,Reptilia,reptile,painted turtle. reptile.,painted turtle,painted turtle,painted turtle|reptile
+116461,Anolis sagrei,Brown Anole,brown anole,Reptilia,reptile,brown anole. reptile.,brown anole,brown anole,brown anole|reptile
+39682,Chelydra serpentina,Common Snapping Turtle,common snapping turtle,Reptilia,reptile,common snapping turtle. reptile.,common snapping turtle,common snapping turtle,common snapping turtle|reptile
+39814,Terrapene carolina,Common Box Turtle,common box turtle,Reptilia,reptile,common box turtle. reptile.,common box turtle,common box turtle,common box turtle|reptile
+55990,Podarcis muralis,Common Wall Lizard,common wall lizard,Reptilia,reptile,common wall lizard. reptile.,common wall lizard,common wall lizard,common wall lizard|reptile
+34435,Hemidactylus turcicus,Mediterranean House Gecko,mediterranean house gecko,Reptilia,reptile,mediterranean house gecko. reptile.,mediterranean house gecko,mediterranean house gecko,mediterranean house gecko|reptile
+35303,Ctenosaura similis,Black Spiny-tailed Iguana,black spiny tailed iguana,Reptilia,reptile,black spiny tailed iguana. reptile.,black spiny tailed iguana,black spiny tailed iguana,black spiny tailed iguana|reptile
+26575,Diadophis punctatus,Ring-necked Snake,ring necked snake,Reptilia,reptile,ring necked snake. reptile.,ring necked snake,ring necked snake,ring necked snake|reptile
+48268,Crotalus oreganus,Western Rattlesnake,western rattlesnake,Reptilia,reptile,western rattlesnake. reptile.,western rattlesnake,western rattlesnake,western rattlesnake|reptile
+35912,Lacerta agilis,Sand Lizard,sand lizard,Reptilia,reptile,sand lizard. reptile.,sand lizard,sand lizard,sand lizard|reptile
+31281,Calotes versicolor,Oriental Garden Lizard,oriental garden lizard,Reptilia,reptile,oriental garden lizard. reptile.,oriental garden lizard,oriental garden lizard,oriental garden lizard|reptile
+146186,Intellagama lesueurii,Australian Water Dragon,australian water dragon,Reptilia,reptile,australian water dragon. reptile.,australian water dragon,australian water dragon,australian water dragon|reptile
+966787,Natrix natrix,grass snake,grass snake,Reptilia,reptile,grass snake. reptile.,grass snake,grass snake,grass snake|reptile
+30764,Crotalus atrox,Western Diamond-backed Rattlesnake,western diamond backed rattlesnake,Reptilia,reptile,western diamond backed rattlesnake. reptile.,western diamond backed rattlesnake,western diamond backed rattlesnake,western diamond backed rattlesnake|reptile
+36142,Sceloporus undulatus,Eastern Fence Lizard,eastern fence lizard,Reptilia,reptile,eastern fence lizard. reptile.,eastern fence lizard,eastern fence lizard,eastern fence lizard|reptile
+68492,Hemidactylus mabouia,Tropical House Gecko,tropical house gecko,Reptilia,reptile,tropical house gecko. reptile.,tropical house gecko,tropical house gecko,tropical house gecko|reptile
+59644,Pantherophis alleghaniensis,Eastern Ratsnake,eastern ratsnake,Reptilia,reptile,eastern ratsnake. reptile.,eastern ratsnake,eastern ratsnake,eastern ratsnake|reptile
+337045,Podarcis siculus,Italian Wall Lizard,italian wall lizard,Reptilia,reptile,italian wall lizard. reptile.,italian wall lizard,italian wall lizard,italian wall lizard|reptile
+912622,Agkistrodon contortrix,Eastern Copperhead,eastern copperhead,Reptilia,reptile,eastern copperhead. reptile.,eastern copperhead,eastern copperhead,eastern copperhead|reptile
+67642,Pantherophis spiloides,Gray Ratsnake,gray ratsnake,Reptilia,reptile,gray ratsnake. reptile.,gray ratsnake,gray ratsnake,gray ratsnake|reptile
+29317,Nerodia fasciata,Banded Watersnake,banded watersnake,Reptilia,reptile,banded watersnake. reptile.,banded watersnake,banded watersnake,banded watersnake|reptile
+38671,Aspidoscelis tigris,Western Whiptail,western whiptail,Reptilia,reptile,western whiptail. reptile.,western whiptail,western whiptail,western whiptail|reptile
+904170,Agkistrodon piscivorus,Northern Cottonmouth,northern cottonmouth,Reptilia,reptile,northern cottonmouth. reptile.,northern cottonmouth,northern cottonmouth,northern cottonmouth|reptile
+28557,Storeria occipitomaculata,Red-bellied Snake,red bellied snake,Reptilia,reptile,red bellied snake. reptile.,red bellied snake,red bellied snake,red bellied snake|reptile
+1544605,Terrapene triunguis,Three-toed Box Turtle,three toed box turtle,Reptilia,reptile,three toed box turtle. reptile.,three toed box turtle,three toed box turtle,three toed box turtle|reptile
+29200,Opheodrys aestivus,Rough Greensnake,rough greensnake,Reptilia,reptile,rough greensnake. reptile.,rough greensnake,rough greensnake,rough greensnake|reptile
+60349,Scincella lateralis,Little Brown Skink,little brown skink,Reptilia,reptile,little brown skink. reptile.,little brown skink,little brown skink,little brown skink|reptile
+35900,Lacerta bilineata,Western Green Lizard,western green lizard,Reptilia,reptile,western green lizard. reptile.,western green lizard,western green lizard,western green lizard|reptile
+39858,Graptemys geographica,Northern Map Turtle,northern map turtle,Reptilia,reptile,northern map turtle. reptile.,northern map turtle,northern map turtle,northern map turtle|reptile
+36488,Anolis cristatellus,Crested Anole,crested anole,Reptilia,reptile,crested anole. reptile.,crested anole,crested anole,crested anole|reptile
+34615,Gekko gecko,Tokay Gecko,tokay gecko,Reptilia,reptile,tokay gecko. reptile.,tokay gecko,tokay gecko,tokay gecko|reptile
+28389,Thamnophis ordinoides,Northwestern Garter Snake,northwestern garter snake,Reptilia,reptile,northwestern garter snake. reptile.,northwestern garter snake,northwestern garter snake,northwestern garter snake|reptile
+29310,Nerodia rhombifer,Diamondback Watersnake,diamondback watersnake,Reptilia,reptile,diamondback watersnake. reptile.,diamondback watersnake,diamondback watersnake,diamondback watersnake|reptile
+717858,Aspidoscelis sexlineatus,Six-lined Racerunner,six lined racerunner,Reptilia,reptile,six lined racerunner. reptile.,six lined racerunner,six lined racerunner,six lined racerunner|reptile
+32064,Elgaria coerulea,Northern Alligator Lizard,northern alligator lizard,Reptilia,reptile,northern alligator lizard. reptile.,northern alligator lizard,northern alligator lizard,northern alligator lizard|reptile
+29925,Heterodon platirhinos,Eastern Hognose Snake,eastern hognose snake,Reptilia,reptile,eastern hognose snake. reptile.,eastern hognose snake,eastern hognose snake,eastern hognose snake|reptile
+73905,Phrynosoma cornutum,Texas Horned Lizard,texas horned lizard,Reptilia,reptile,texas horned lizard. reptile.,texas horned lizard,texas horned lizard,texas horned lizard|reptile
+797638,Diploderma swinhonis,Taiwan Japalure,taiwan japalure,Reptilia,reptile,taiwan japalure. reptile.,taiwan japalure,taiwan japalure,taiwan japalure|reptile
+34050,Phelsuma laticauda,Gold Dust Day Gecko,gold dust day gecko,Reptilia,reptile,gold dust day gecko. reptile.,gold dust day gecko,gold dust day gecko,gold dust day gecko|reptile
+35306,Ctenosaura pectinata,Western Spiny-tailed Iguana,western spiny tailed iguana,Reptilia,reptile,western spiny tailed iguana. reptile.,western spiny tailed iguana,western spiny tailed iguana,western spiny tailed iguana|reptile
+37460,Tiliqua rugosa,Shingleback,shingleback,Reptilia,reptile,shingleback. reptile.,shingleback,shingleback,shingleback|reptile
+36315,Phrynosoma hernandesi,Greater Short-horned Lizard,greater short horned lizard,Reptilia,reptile,greater short horned lizard. reptile.,greater short horned lizard,greater short horned lizard,greater short horned lizard|reptile
+50238,Morelia spilota,Carpet Python,carpet python,Reptilia,reptile,carpet python. reptile.,carpet python,carpet python,carpet python|reptile
+73792,Plestiodon laticeps,Broad-headed Skink,broad headed skink,Reptilia,reptile,broad headed skink. reptile.,broad headed skink,broad headed skink,broad headed skink|reptile
+37456,Tiliqua scincoides,Common Bluetongue,common bluetongue,Reptilia,reptile,common bluetongue. reptile.,common bluetongue,common bluetongue,common bluetongue|reptile
+31150,Agama atra,Southern Rock Agama,southern rock agama,Reptilia,reptile,southern rock agama. reptile.,southern rock agama,southern rock agama,southern rock agama|reptile
+37769,Plestiodon skiltonianus,Western Skink,western skink,Reptilia,reptile,western skink. reptile.,western skink,western skink,western skink|reptile
+35854,Lacerta viridis,Green Lizard,green lizard,Reptilia,reptile,green lizard. reptile.,green lizard,green lizard,green lizard|reptile
+116517,Caiman crocodilus,Spectacled Caiman,spectacled caiman,Reptilia,reptile,spectacled caiman. reptile.,spectacled caiman,spectacled caiman,spectacled caiman|reptile
+36076,Cophosaurus texanus,Greater Earless Lizard,greater earless lizard,Reptilia,reptile,greater earless lizard. reptile.,greater earless lizard,greater earless lizard,greater earless lizard|reptile
+55960,Sceloporus graciosus,Common Sagebrush Lizard,common sagebrush lizard,Reptilia,reptile,common sagebrush lizard. reptile.,common sagebrush lizard,common sagebrush lizard,common sagebrush lizard|reptile
+33135,Crotaphytus collaris,Eastern Collared Lizard,eastern collared lizard,Reptilia,reptile,eastern collared lizard. reptile.,eastern collared lizard,eastern collared lizard,eastern collared lizard|reptile
+35347,Amblyrhynchus cristatus,Marine Iguana,marine iguana,Reptilia,reptile,marine iguana. reptile.,marine iguana,marine iguana,marine iguana|reptile
+73887,Pantherophis guttatus,Red Cornsnake,red cornsnake,Reptilia,reptile,red cornsnake. reptile.,red cornsnake,red cornsnake,red cornsnake|reptile
+40092,Stigmochelys pardalis,Leopard Tortoise,leopard tortoise,Reptilia,reptile,leopard tortoise. reptile.,leopard tortoise,leopard tortoise,leopard tortoise|reptile
+33121,Basiliscus basiliscus,Common Basilisk,common basilisk,Reptilia,reptile,common basilisk. reptile.,common basilisk,common basilisk,common basilisk|reptile
+341972,Crocodylus niloticus,Nile Crocodile,nile crocodile,Reptilia,reptile,nile crocodile. reptile.,nile crocodile,nile crocodile,nile crocodile|reptile
+40021,Chersina angulata,Angulate Tortoise,angulate tortoise,Reptilia,reptile,angulate tortoise. reptile.,angulate tortoise,angulate tortoise,angulate tortoise|reptile
+81526,Crotalus viridis,Prairie Rattlesnake,prairie rattlesnake,Reptilia,reptile,prairie rattlesnake. reptile.,prairie rattlesnake,prairie rattlesnake,prairie rattlesnake|reptile
+34580,Gonatodes albogularis,Yellow-headed Gecko,yellow headed gecko,Reptilia,reptile,yellow headed gecko. reptile.,yellow headed gecko,yellow headed gecko,yellow headed gecko|reptile
+71212,Testudo hermanni,Hermann's Tortoise,hermann s tortoise,Reptilia,reptile,hermann s tortoise. reptile.,hermann s tortoise,hermann s tortoise,hermann s tortoise|reptile
+39826,Pseudemys rubriventris,Northern Red-bellied Cooter,northern red bellied cooter,Reptilia,reptile,northern red bellied cooter. reptile.,northern red bellied cooter,northern red bellied cooter,northern red bellied cooter|reptile
+39672,Eretmochelys imbricata,Hawksbill Sea Turtle,hawksbill sea turtle,Reptilia,reptile,hawksbill sea turtle. reptile.,hawksbill sea turtle,hawksbill sea turtle,hawksbill sea turtle|reptile
+73592,Actinemys marmorata,Northwestern Pond Turtle,northwestern pond turtle,Reptilia,reptile,northwestern pond turtle. reptile.,northwestern pond turtle,northwestern pond turtle,northwestern pond turtle|reptile
+26068,Crocodylus porosus,Saltwater Crocodile,saltwater crocodile,Reptilia,reptile,saltwater crocodile. reptile.,saltwater crocodile,saltwater crocodile,saltwater crocodile|reptile
+28390,Thamnophis marcianus,Checkered Garter Snake,checkered garter snake,Reptilia,reptile,checkered garter snake. reptile.,checkered garter snake,checkered garter snake,checkered garter snake|reptile
+39665,Caretta caretta,Loggerhead Sea Turtle,loggerhead sea turtle,Reptilia,reptile,loggerhead sea turtle. reptile.,loggerhead sea turtle,loggerhead sea turtle,loggerhead sea turtle|reptile
+32954,Bradypodion pumilum,Cape Dwarf Chameleon,cape dwarf chameleon,Reptilia,reptile,cape dwarf chameleon. reptile.,cape dwarf chameleon,cape dwarf chameleon,cape dwarf chameleon|reptile
+904173,Agkistrodon conanti,Florida Cottonmouth,florida cottonmouth,Reptilia,reptile,florida cottonmouth. reptile.,florida cottonmouth,florida cottonmouth,florida cottonmouth|reptile
+35153,Pseudechis porphyriacus,Red-bellied Black Snake,red bellied black snake,Reptilia,reptile,red bellied black snake. reptile.,red bellied black snake,red bellied black snake,red bellied black snake|reptile
+243904,Phrynosoma platyrhinos,Desert Horned Lizard,desert horned lizard,Reptilia,reptile,desert horned lizard. reptile.,desert horned lizard,desert horned lizard,desert horned lizard|reptile
+38913,Ameiva ameiva,Giant Ameiva,giant ameiva,Reptilia,reptile,giant ameiva. reptile.,giant ameiva,giant ameiva,giant ameiva|reptile
+36198,Sceloporus orcutti,Granite Spiny Lizard,granite spiny lizard,Reptilia,reptile,granite spiny lizard. reptile.,granite spiny lizard,granite spiny lizard,granite spiny lizard|reptile
+31631,Amphibolurus muricatus,Jacky Dragon,jacky dragon,Reptilia,reptile,jacky dragon. reptile.,jacky dragon,jacky dragon,jacky dragon|reptile
+71085,Varanus niloticus,Nile Monitor,nile monitor,Reptilia,reptile,nile monitor. reptile.,nile monitor,nile monitor,nile monitor|reptile
+99882,Emydura macquarii,Eastern Short-necked Turtle,eastern short necked turtle,Reptilia,reptile,eastern short necked turtle. reptile.,eastern short necked turtle,eastern short necked turtle,eastern short necked turtle|reptile
+146314,Opheodrys vernalis,Smooth Greensnake,smooth greensnake,Reptilia,reptile,smooth greensnake. reptile.,smooth greensnake,smooth greensnake,smooth greensnake|reptile
+35995,Gallotia galloti,Tenerife Lizard,tenerife lizard,Reptilia,reptile,tenerife lizard. reptile.,tenerife lizard,tenerife lizard,tenerife lizard|reptile
+30187,Ahaetulla prasina,Oriental Whipsnake,oriental whipsnake,Reptilia,reptile,oriental whipsnake. reptile.,oriental whipsnake,oriental whipsnake,oriental whipsnake|reptile
+50000,Clemmys guttata,Spotted Turtle,spotted turtle,Reptilia,reptile,spotted turtle. reptile.,spotted turtle,spotted turtle,spotted turtle|reptile
+29818,Lampropeltis holbrooki,Speckled Kingsnake,speckled kingsnake,Reptilia,reptile,speckled kingsnake. reptile.,speckled kingsnake,speckled kingsnake,speckled kingsnake|reptile
+33387,Coleonyx variegatus,Western Banded Gecko,western banded gecko,Reptilia,reptile,western banded gecko. reptile.,western banded gecko,western banded gecko,western banded gecko|reptile
+38291,Lampropholis guichenoti,Pale-flecked Garden Sunskink,pale flecked garden sunskink,Reptilia,reptile,pale flecked garden sunskink. reptile.,pale flecked garden sunskink,pale flecked garden sunskink,pale flecked garden sunskink|reptile
+39950,Mauremys sinensis,Common thread turtle,common thread turtle,Reptilia,reptile,common thread turtle. reptile.,common thread turtle,common thread turtle,common thread turtle|reptile
+39598,Chelodina longicollis,Eastern Snake-necked Turtle,eastern snake necked turtle,Reptilia,reptile,eastern snake necked turtle. reptile.,eastern snake necked turtle,eastern snake necked turtle,eastern snake necked turtle|reptile
+39670,Lepidochelys olivacea,Olive Ridley Sea Turtle,olive ridley sea turtle,Reptilia,reptile,olive ridley sea turtle. reptile.,olive ridley sea turtle,olive ridley sea turtle,olive ridley sea turtle|reptile
+26074,Crocodylus moreletii,Morelet's Crocodile,morelet s crocodile,Reptilia,reptile,morelet s crocodile. reptile.,morelet s crocodile,morelet s crocodile,morelet s crocodile|reptile
+32093,Boa constrictor,Boa Constrictor,boa constrictor,Reptilia,reptile,boa constrictor. reptile.,boa constrictor,boa constrictor,boa constrictor|reptile
+539039,Chelonoidis carbonarius,Red-footed Tortoise,red footed tortoise,Reptilia,reptile,red footed tortoise. reptile.,red footed tortoise,red footed tortoise,red footed tortoise|reptile
+31411,Pogona vitticeps,Central Bearded Dragon,central bearded dragon,Reptilia,reptile,central bearded dragon. reptile.,central bearded dragon,central bearded dragon,central bearded dragon|reptile

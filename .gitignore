@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+.venvs/
+models/
+data/
+results/
+*.log
+run.pid
