@@ -1,0 +1,38 @@
+{
+  "type": "object",
+  "required": ["caption_judge", "qa_judges"],
+  "properties": {
+    "caption_judge": {
+      "type": "object",
+      "required": ["verdict", "score", "reason"],
+      "properties": {
+        "verdict": {
+          "type": "string",
+          "enum": ["Correct", "Wrong"]
+        },
+        "score": {
+          "type": "number"
+        },
+        "reason": {
+          "type": "string"
+        }
+      }
+    },
+    "qa_judges": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["qid", "verdict", "score", "reason"],
+        "properties": {
+          "qid": {"type": "string"},
+          "verdict": {
+            "type": "string",
+            "enum": ["Correct", "Wrong"]
+          },
+          "score": {"type": "number"},
+          "reason": {"type": "string"}
+        }
+      }
+    }
+  }
+}

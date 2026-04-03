@@ -1,0 +1,22 @@
+{
+  "name": "wildbiowiki_llm_judge_gpt54mini",
+  "version": "paper_release_2026-04-04",
+  "model": "gpt-5.4-mini",
+  "caption_uses_image": false,
+  "tasks": [
+    "image-level captioning",
+    "species-level QA"
+  ],
+  "qa_groups": {
+    "Basic": ["Q1", "Q2", "Q3", "Q4"],
+    "Compositional": ["Q5", "Q6"],
+    "Reasoning": ["Q7", "Q8"]
+  },
+  "judge_outputs": {
+    "caption": ["verdict", "score", "reason"],
+    "qa": ["qid", "verdict", "score", "reason"]
+  },
+  "verdict_labels": ["Correct", "Wrong"],
+  "score_range": "0-100",
+  "qa_accuracy_definition": "Acc denotes the proportion of QA answers judged as Correct."
+}

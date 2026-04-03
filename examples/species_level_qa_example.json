@@ -1,0 +1,16 @@
+{
+  "class_id": "4956",
+  "qa_pairs": {
+    "Q1": {
+      "type": "knowledge_lookup",
+      "reasoning_type": "scientific_name_lookup",
+      "question": "What name is used in biological records to uniquely identify the species shown in the image?",
+      "answer": "The scientific name is Ardea herodias.",
+      "evidence_fields": ["scientific_name"],
+      "supporting_evidence": ["The scientific name is Ardea herodias."],
+      "answer_source": "source_bundle",
+      "uses_extra": false,
+      "difficulty": "basic"
+    }
+  }
+}

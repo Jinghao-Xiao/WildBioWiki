@@ -1,0 +1,49 @@
+{
+  "type": "object",
+  "required": ["class_id", "qa_pairs"],
+  "properties": {
+    "class_id": {"type": "string"},
+    "qa_pairs": {
+      "type": "object",
+      "required": ["Q1", "Q2", "Q3", "Q4", "Q5", "Q6", "Q7", "Q8"],
+      "additionalProperties": false,
+      "properties": {
+        "Q1": {"$ref": "#/$defs/qa_item"},
+        "Q2": {"$ref": "#/$defs/qa_item"},
+        "Q3": {"$ref": "#/$defs/qa_item"},
+        "Q4": {"$ref": "#/$defs/qa_item"},
+        "Q5": {"$ref": "#/$defs/qa_item"},
+        "Q6": {"$ref": "#/$defs/qa_item"},
+        "Q7": {"$ref": "#/$defs/qa_item"},
+        "Q8": {"$ref": "#/$defs/qa_item"}
+      }
+    }
+  },
+  "$defs": {
+    "qa_item": {
+      "type": "object",
+      "required": [
+        "type",
+        "reasoning_type",
+        "question",
+        "answer",
+        "evidence_fields",
+        "supporting_evidence",
+        "answer_source",
+        "uses_extra",
+        "difficulty"
+      ],
+      "properties": {
+        "type": {"type": "string"},
+        "reasoning_type": {"type": "string"},
+        "question": {"type": "string"},
+        "answer": {"type": "string"},
+        "evidence_fields": {"type": "array", "items": {"type": "string"}},
+        "supporting_evidence": {"type": "array", "items": {"type": "string"}},
+        "answer_source": {"type": "string"},
+        "uses_extra": {"type": "boolean"},
+        "difficulty": {"type": "string"}
+      }
+    }
+  }
+}

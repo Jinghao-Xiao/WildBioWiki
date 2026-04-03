@@ -14,6 +14,12 @@ The current release covers:
 
 This code release packages the benchmark construction and evaluation workflow used for the WildBioWiki paper. The benchmark is built from iNaturalist wildlife imagery, structured species knowledge, evidence-preserving QA construction, and image-level silver captions.
 
+## Public Resources
+
+- website: `https://wildbiowiki.vercel.app/`
+- GitHub: `https://github.com/Jinghao-Xiao/WildBioWiki`
+- dataset release: `https://drive.google.com/drive/folders/1et2e-RDGYtzjO80vihIxtfFQ0DTb-Q71?usp=share_link`
+
 ## Repository Scope
 
 This release is intended to cover:
@@ -54,6 +60,11 @@ The paired dataset release is staged separately under the Google Drive package:
 - `MODEL_PATCHES.md`: notes on local model compatibility edits used during experimentation
 - `CITATION.cff`: citation metadata
 - `LICENSE`: code license for this release package
+- `REPRODUCIBILITY.md`: paper-aligned pointer map for construction and evaluation materials
+- `prompts/`: released prompt materials for captioning, QA, and LLM-judge evaluation
+- `configs/`: released judge configuration files
+- `schemas/`: released output schemas
+- `examples/`: released worked examples for prompt and judge outputs
 
 ## Installation
 
@@ -76,6 +87,7 @@ python -m pip install -r requirements.txt
 - The dataset contains mixed-source imagery. Image reuse is governed by source-specific attribution and license requirements; see the dataset package for details.
 - The current release package does not redistribute third-party model weights.
 - Some local runs required compatibility edits to third-party model code; see `MODEL_PATCHES.md`.
+- Detailed prompt materials, grading criteria, configs, schemas, judge details, and examples released for the paper are organized under `prompts/`, `configs/`, `schemas/`, `examples/`, and `REPRODUCIBILITY.md`.
 
 ## Citation
 
