@@ -7,7 +7,7 @@ WildBioWiki is a knowledge-grounded biodiversity benchmark for two coordinated t
 
 It is built from iNaturalist wildlife imagery, structured species knowledge, retained supporting evidence, and image-level silver captions.
 
-[Website](https://wildbiowiki.vercel.app) | [Dataset Release](https://drive.google.com/drive/folders/1et2e-RDGYtzjO80vihIxtfFQ0DTb-Q71?usp=share_link) | [Reproducibility](./REPRODUCIBILITY.md) | [Dataset Card](./DATASET_CARD.md)
+[Website](https://wildbiowiki.vercel.app) | [Dataset Release](https://drive.google.com/drive/folders/1et2e-RDGYtzjO80vihIxtfFQ0DTb-Q71?usp=share_link) | [Dataset Demo](./dataset_demo/WildBioWiki_demo.html) | [Reproducibility](./REPRODUCIBILITY.md) | [Dataset Card](./DATASET_CARD.md)
 
 ![WildBioWiki sample](https://wildbiowiki.vercel.app/web-assets/sample.jpg)
 
@@ -30,6 +30,7 @@ It is built from iNaturalist wildlife imagery, structured species knowledge, ret
 - Website: [wildbiowiki.vercel.app](https://wildbiowiki.vercel.app)
 - GitHub: [Jinghao-Xiao/WildBioWiki](https://github.com/Jinghao-Xiao/WildBioWiki)
 - Dataset release: [Google Drive folder](https://drive.google.com/drive/folders/1et2e-RDGYtzjO80vihIxtfFQ0DTb-Q71?usp=share_link)
+- Dataset demo: [`dataset_demo/WildBioWiki_demo.html`](./dataset_demo/WildBioWiki_demo.html)
 
 ## What This Repository Covers
 
@@ -53,6 +54,7 @@ The paired dataset release is staged separately under the Google Drive package `
 | [`configs/`](./configs) | released judge configuration files |
 | [`schemas/`](./schemas) | released output schemas |
 | [`examples/`](./examples) | worked prompt and judging examples |
+| [`dataset_demo/`](./dataset_demo) | self-contained HTML demo with embedded benchmark samples |
 | [`assets/iNaturalist/`](./assets/iNaturalist) | detector prompt mapping and iNaturalist name-mapping assets |
 | [`DATASET_CARD.md`](./DATASET_CARD.md) | benchmark summary for code users |
 | [`REPRODUCIBILITY.md`](./REPRODUCIBILITY.md) | pointer map for paper-aligned construction and evaluation materials |
