@@ -41,7 +41,7 @@ Grouped reporting categories:
 
 - 392 species
 - 264,563 images
-- 3,136 QA pairs
+- 2,116,504 image-question QA instances
 - five vertebrate classes
 
 ## Data Sources
