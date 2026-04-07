@@ -1,70 +1,92 @@
 # WildBioWiki
 
-WildBioWiki is a knowledge-grounded biodiversity benchmark with two coordinated tasks:
+WildBioWiki is a knowledge-grounded biodiversity benchmark for two coordinated tasks:
 
-- species-level question answering (QA)
+- species-level question answering
 - image-level captioning
 
-The current release covers:
+It is built from iNaturalist wildlife imagery, structured species knowledge, retained supporting evidence, and image-level silver captions.
 
-- 392 species
-- 264,563 images
-- 3,136 species-level QA pairs
-- five vertebrate classes: `Actinopterygii`, `Amphibia`, `Aves`, `Mammalia`, and `Reptilia`
+[Website](https://wildbiowiki.vercel.app) | [Dataset Release](https://drive.google.com/drive/folders/1et2e-RDGYtzjO80vihIxtfFQ0DTb-Q71?usp=share_link) | [Reproducibility](./REPRODUCIBILITY.md) | [Dataset Card](./DATASET_CARD.md)
 
-This code release packages the benchmark construction and evaluation workflow used for the WildBioWiki paper. The benchmark is built from iNaturalist wildlife imagery, structured species knowledge, evidence-preserving QA construction, and image-level silver captions.
+![WildBioWiki sample](https://wildbiowiki.vercel.app/web-assets/sample.jpg)
+
+## At a Glance
+
+| Item | Value |
+| --- | --- |
+| Species | `392` |
+| Images | `264,563` |
+| Species-level QA pairs | `3,136` |
+| Vertebrate classes | `Actinopterygii`, `Amphibia`, `Aves`, `Mammalia`, `Reptilia` |
+| Candidate pool | `1,000` species total, balanced as `200` species per class |
+| Image splits | train `211,492`, validation `26,283`, test `26,788` |
+| QA design | 8 fixed question slots per species |
+| QA groups | `Basic`, `Compositional`, `Reasoning` |
+| Caption design | image-level silver captions generated from image plus scientific name |
 
 ## Public Resources
 
-- website: `https://wildbiowiki.vercel.app/`
-- GitHub: `https://github.com/Jinghao-Xiao/WildBioWiki`
-- dataset release: `https://drive.google.com/drive/folders/1et2e-RDGYtzjO80vihIxtfFQ0DTb-Q71?usp=share_link`
+- Website: [wildbiowiki.vercel.app](https://wildbiowiki.vercel.app)
+- GitHub: [Jinghao-Xiao/WildBioWiki](https://github.com/Jinghao-Xiao/WildBioWiki)
+- Dataset release: [Google Drive folder](https://drive.google.com/drive/folders/1et2e-RDGYtzjO80vihIxtfFQ0DTb-Q71?usp=share_link)
 
-## Repository Scope
+## What This Repository Covers
 
-This release is intended to cover:
+This code release is intended to cover the construction and evaluation workflow used in the WildBioWiki paper:
 
-- species pool construction
+- candidate species pool construction
 - knowledge retrieval and structuring
 - image filtering and manifest preparation
 - species-level QA construction and validation
 - image-level caption generation
-- benchmark evaluation and LLM-judge scoring
+- benchmark evaluation and LLM-based semantic judging
 
-The paired dataset release is staged separately under the Google Drive package:
+The paired dataset release is staged separately under the Google Drive package `WildBioWiki-QA-medium_release`.
 
-- `WildBioWiki-QA-medium_release`
+## Repository Map
 
-## Benchmark Summary
+| Path | Purpose |
+| --- | --- |
+| [`scripts/`](./scripts) | construction, validation, generation, and evaluation scripts |
+| [`prompts/`](./prompts) | released prompt materials for species-level QA, captioning, and LLM judging |
+| [`configs/`](./configs) | released judge configuration files |
+| [`schemas/`](./schemas) | released output schemas |
+| [`examples/`](./examples) | worked prompt and judging examples |
+| [`assets/iNaturalist/`](./assets/iNaturalist) | detector prompt mapping and iNaturalist name-mapping assets |
+| [`DATASET_CARD.md`](./DATASET_CARD.md) | benchmark summary for code users |
+| [`REPRODUCIBILITY.md`](./REPRODUCIBILITY.md) | pointer map for paper-aligned construction and evaluation materials |
+| [`MODEL_PATCHES.md`](./MODEL_PATCHES.md) | notes on local model compatibility edits used during experimentation |
 
-- candidate pool: 1,000 species total, balanced as 200 species per vertebrate class
-- final retained set: 392 species
-- image split counts:
-  - train: 211,492
-  - validation: 26,283
-  - test: 26,788
-- QA design:
-  - 8 fixed question slots per species
-  - grouped as `Basic`, `Compositional`, and `Reasoning`
-- captions:
-  - image-level silver captions
-  - generated from image plus scientific name
-  - visible content only
+## Prompt and Schema Index
 
-## Included Files
+### Prompt Templates
 
-- `environment.yml`: conda environment definition
-- `requirements.txt`: minimal pip installation path
-- `inat_download_manifest_396.jsonl`: class-level image download manifest
-- `DATASET_CARD.md`: benchmark summary for code users
-- `MODEL_PATCHES.md`: notes on local model compatibility edits used during experimentation
-- `CITATION.cff`: citation metadata
-- `LICENSE`: code license for this release package
-- `REPRODUCIBILITY.md`: paper-aligned pointer map for construction and evaluation materials
-- `prompts/`: released prompt materials for captioning, QA, and LLM-judge evaluation
-- `configs/`: released judge configuration files
-- `schemas/`: released output schemas
-- `examples/`: released worked examples for prompt and judge outputs
+- [`prompts/species_level_qa_generation.md`](./prompts/species_level_qa_generation.md)
+- [`prompts/image_level_caption_generation.md`](./prompts/image_level_caption_generation.md)
+- [`prompts/llm_judge_gpt54mini.md`](./prompts/llm_judge_gpt54mini.md)
+
+### Configs
+
+- [`configs/llm_judge_gpt54mini.json`](./configs/llm_judge_gpt54mini.json)
+
+### Schemas
+
+- [`schemas/species_level_qa_output_schema.json`](./schemas/species_level_qa_output_schema.json)
+- [`schemas/llm_judge_output_schema.json`](./schemas/llm_judge_output_schema.json)
+
+### Examples
+
+- [`examples/species_level_qa_example.json`](./examples/species_level_qa_example.json)
+- [`examples/llm_judge_examples.md`](./examples/llm_judge_examples.md)
+
+## Key Released Files
+
+- [`environment.yml`](./environment.yml): conda environment definition
+- [`requirements.txt`](./requirements.txt): minimal pip installation path
+- [`inat_download_manifest_396.jsonl`](./inat_download_manifest_396.jsonl): class-level image download manifest
+- [`CITATION.cff`](./CITATION.cff): citation metadata
+- [`LICENSE`](./LICENSE): Apache License 2.0 for the code release package
 
 ## Installation
 
@@ -81,14 +103,14 @@ Pip:
 python -m pip install -r requirements.txt
 ```
 
-## Important Notes
+## Notes
 
 - This code release and the dataset release are separate.
 - The dataset contains mixed-source imagery. Image reuse is governed by source-specific attribution and license requirements; see the dataset package for details.
 - The current release package does not redistribute third-party model weights.
-- Some local runs required compatibility edits to third-party model code; see `MODEL_PATCHES.md`.
-- Detailed prompt materials, grading criteria, configs, schemas, judge details, and examples released for the paper are organized under `prompts/`, `configs/`, `schemas/`, `examples/`, and `REPRODUCIBILITY.md`.
+- Some local runs required compatibility edits to third-party model code; see [`MODEL_PATCHES.md`](./MODEL_PATCHES.md).
+- Detailed prompt materials, grading criteria, configs, schemas, judge details, and examples released for the paper are organized under [`prompts/`](./prompts), [`configs/`](./configs), [`schemas/`](./schemas), [`examples/`](./examples), and [`REPRODUCIBILITY.md`](./REPRODUCIBILITY.md).
 
 ## Citation
 
-Please cite the WildBioWiki paper and dataset release when using this code or the associated benchmark assets. See `CITATION.cff`.
+Please cite the WildBioWiki paper and dataset release when using this code or the associated benchmark assets. See [`CITATION.cff`](./CITATION.cff).
