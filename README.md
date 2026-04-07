@@ -17,7 +17,7 @@ It is built from iNaturalist wildlife imagery, structured species knowledge, ret
 | --- | --- |
 | Species | `392` |
 | Images | `264,563` |
-| Species-level QA pairs | `3,136` |
+| Image-question QA instances | `2,116,504` |
 | Vertebrate classes | `Actinopterygii`, `Amphibia`, `Aves`, `Mammalia`, `Reptilia` |
 | Candidate pool | `1,000` species total, balanced as `200` species per class |
 | Image splits | train `211,492`, validation `26,283`, test `26,788` |
